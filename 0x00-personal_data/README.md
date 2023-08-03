@@ -1,8 +1,6 @@
 # 0x00. Personal data
 
-## A simple summary of thIS concepts:
-
-1. **PII (Personally Identifiable Information):**
+## A simple summary of thISifiable Information):**
    PII is like private information about you, such as your name, phone number, and address. We keep it safe so only the right people can know it.
 
 2. **Log Filter for PII:**
